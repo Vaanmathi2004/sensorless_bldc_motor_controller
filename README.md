@@ -21,12 +21,6 @@ This controller provides a low-cost, efficient solution for BLDC motor control. 
 
 ## Setup Instructions
 
-### Hardware Requirements
-- **BLDC Motor**: 3-phase motor with open leads for phase control.
-- **Arduino Board**: Capable of handling PWM outputs (e.g., Arduino Uno).
-- **Buttons**: Two momentary push buttons for speed adjustments.
-- **Power Supply**: Adequate voltage and current for the motor.
-
 ### Connections
 1. Connect the motor phases to Arduino PWM pins:
    - Phase A: Pin 9
