@@ -15,8 +15,7 @@ This controller provides a low-cost, efficient solution for BLDC motor control. 
 - **Sensorless Commutation**: Tracks rotor position using BEMF signals.
 - **PWM Speed Control**: Dynamic speed adjustments with hardware buttons (`SPEED_UP` and `SPEED_DOWN`).
 - **Flexible Configuration**: Adjustable duty cycle limits (`PWM_MIN_DUTY`, `PWM_MAX_DUTY`, `PWM_START_DUTY`).
-- **Startup Sequencing**: Smooth motor startup with a gradual duty cycle ramp.
-
+  
 ---
 
 ## Setup Instructions
