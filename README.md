@@ -50,5 +50,4 @@ This controller provides a low-cost, efficient solution for BLDC motor control. 
 This solution outperforms traditional systems by:
 - Removing dependency on external sensors.
 - Reducing overall cost while maintaining performance.
-- Offering scalability for various motor types and applications.
 
